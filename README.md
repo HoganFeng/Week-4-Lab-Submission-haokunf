@@ -5,4 +5,4 @@ Week 4 Lab Submission (Github Version Control)
 - This repository includes a pull request that has been merged by a classmate
 - This repository includes a README.md file that has a link to the repository of a classmate's GitHub repository where I made a pull request that was merged into their project
 
-- Hogan's repo link is: https://github.com/HoganFeng/Week4-Lab.git
+- Update hogan's repo link: https://github.com/HoganFeng/Week4-Lab.git
